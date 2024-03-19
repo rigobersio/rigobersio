@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy **Rigoberto Antonio Maxmiliano Martínez Quintana**.
+# ¡Hola! 👋 Soy **Rigoberto Antonio Maximiliano Martínez Quintana**.
 
 ## Sobre mí
 ¡Saludos! Soy un desarrollador web full stack chileno, apasionado por crear experiencias increíbles en la web. Me he formado en el prestigioso bootcamp de [Henry](https://www.soyhenry.com/), donde he adquirido habilidades sólidas en el desarrollo web y una mentalidad orientada a los resultados.
