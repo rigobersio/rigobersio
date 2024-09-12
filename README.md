@@ -16,6 +16,7 @@ Aquí algunos proyectos en los que he trabajado recientemente:
 
 - [Divers](https://github.com/rigobersio/pi-drivers-main): Esta aplicación web proporciona informacion sobre pilotos de la F1.
 - [Rentify](https://github.com/rigobersio/pf-rentify): Esta aplicacion web permite a los usuarios buscar ofertas de habitaciones en hoteles o publicar ofertas.
+- [SPA-Tasks](https://spa-tasks.onrender.com): Prueba esta app web bilingüe con la ayuda de perritos expertos en tareas. Si tienes dudas, ¡explora la SPA!
 
 ## Contacto 📫
 ¡Estoy abierto a colaboraciones y oportunidades interesantes! Puedes contactarme a través de:
