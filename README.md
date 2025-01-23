@@ -20,7 +20,7 @@ Aquí algunos proyectos en los que he trabajado recientemente:
 
 ## Contacto 📫
 ¡Estoy abierto a colaboraciones y oportunidades interesantes! Puedes contactarme a través de:
-- Correos: rigoberto.developer@tutanota.com o rigomartinez@udec.cl 📧
+- Correos: rigoberto.developer@tutanota.com 📧
 - LinkedIn: [Rigoberto Martínez](https://www.linkedin.com/in/rigoberto-martinez/) 💼
 - Página personal: [Porfolio](https://porfolio-rigoberto.vercel.app/) 🚀
 
