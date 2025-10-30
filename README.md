@@ -6,7 +6,7 @@
 ## Tecnologías que domino 🚀
 - JavaScript ⚡
 - React ⚛️
-- Redux 🔄
+- Redux Toolkit 🔄
 - Node.js 🟢
 - Express 🚂
 - PostgreSQL 🐘
